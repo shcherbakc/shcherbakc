@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="72" viewBox="0 0 920 72" role="img" aria-label="!B5:: @0:B8:C<, DataLens, Google, Wildberries, Ozon, 0@:5B, >9!:;04">
+  <defs>
+    <filter id="s" x="-10%" y="-20%" width="120%" height="160%">
+      <feDropShadow dx="0" dy="1" stdDeviation="1.2" flood-color="#000" flood-opacity="0.28"/>
+    </filter>
+  </defs>
+  <rect width="920" height="72" rx="16" fill="#0D1117"/>
+
+  <!-- /=45:A @0:B8:C< -->
+  <g filter="url(#s)">
+    <rect x="16" y="16" width="132" height="40" rx="10" fill="#FC3F1D"/>
+    <text x="82" y="42" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#fff">@0:B8:C<</text>
+  </g>
+
+  <!-- DataLens -->
+  <g filter="url(#s)">
+    <rect x="156" y="16" width="122" height="40" rx="10" fill="#FFCC00"/>
+    <text x="217" y="42" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#111">DataLens</text>
+  </g>
+
+  <!-- Google Apps Script -->
+  <g filter="url(#s)">
+    <rect x="286" y="16" width="88" height="40" rx="10" fill="#4285F4"/>
+    <text x="330" y="42" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#fff">Google</text>
+  </g>
+
+  <!-- Wildberries -->
+  <g filter="url(#s)">
+    <rect x="382" y="16" width="54" height="40" rx="10" fill="#CB11AB"/>
+    <text x="409" y="42" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="800" fill="#fff">WB</text>
+  </g>
+
+  <!-- Ozon -->
+  <g filter="url(#s)">
+    <rect x="444" y="16" width="78" height="40" rx="10" fill="#005BFF"/>
+    <text x="483" y="42" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="800" fill="#fff">Ozon</text>
+  </g>
+
+  <!-- /=45:A 0@:5B -->
+  <g filter="url(#s)">
+    <rect x="530" y="16" width="118" height="40" rx="10" fill="#FF3333"/>
+    <text x="589" y="42" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#fff">0@:5B</text>
+  </g>
+
+  <!-- >9!:;04 -->
+  <g filter="url(#s)">
+    <rect x="656" y="16" width="112" height="40" rx="10" fill="#00A046"/>
+    <text x="712" y="42" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#fff">>9!:;04</text>
+  </g>
+
+  <!-- PostgreSQL -->
+  <g filter="url(#s)">
+    <rect x="776" y="16" width="128" height="40" rx="10" fill="#4169E1"/>
+    <text x="840" y="42" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#fff">PostgreSQL</text>
+  </g>
+</svg>
