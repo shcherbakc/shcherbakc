@@ -4,19 +4,19 @@
 
 **Аналитик данных · BI · оцифровка процессов на маркетплейсах**
 
-Выпускник [Яндекс Практикума](https://practicum.yandex.ru/data-analyst/), **расширенный тариф**.  
-14 проектов курса + практика: выгрузки через API, Google Apps Script, отчётность WB / Ozon / Яндекс Маркет / МойСклад.
+Собираю данные из кабинетов, считаю метрики и отдаю дашборд или таблицу, которой пользуются.  
+WB · Ozon · Яндекс Маркет · МойСклад · Google Apps Script  
+Курс: аналитик данных, [Яндекс Практикум](https://practicum.yandex.ru/data-analyst/)
 
 <br/>
 
-<a href="https://practicum.yandex.ru/data-analyst/"><img src="https://img.shields.io/badge/Яндекс%20Практикум-Аналитик%20данных%20·%20расширенный-FC3F1D?style=for-the-badge&logo=yandex&logoColor=white" alt="Яндекс Практикум" /></a>
 <a href="https://datalens.yandex"><img src="https://img.shields.io/badge/Yandex-DataLens-FFCC00?style=for-the-badge&logo=yandexcloud&logoColor=black" alt="Yandex DataLens" /></a>
 <a href="https://developers.google.com/apps-script"><img src="https://img.shields.io/badge/Google-Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Apps Script" /></a>
 <a href="https://t.me/shcherbakc"><img src="https://img.shields.io/badge/Telegram-shcherbakc-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 
 <br/>
 
-<img src="./assets/brands.svg" alt="Практикум, DataLens, Google, Wildberries, Ozon, Яндекс Маркет, МойСклад, PostgreSQL" width="920" />
+<img src="./assets/brands.svg" alt="DataLens, Google, Wildberries, Ozon, Яндекс Маркет, МойСклад, PostgreSQL, Python" width="920" />
 
 </div>
 
@@ -24,24 +24,32 @@
 
 ## Навыки
 
-Как на [странице курса](https://practicum.yandex.ru/data-analyst/) и в работе с клиентами:
+<table>
+<tr>
+<td width="33%" valign="top">
 
-| | Что умею |
-|:---:|:---|
-| 🗄️ | Собираю данные с помощью **SQL-запросов** |
-| 🐍 | Провожу анализ данных с помощью **Python** |
-| 📊 | Создаю дашборды в **Yandex DataLens** |
-| 📐 | Рассчитываю **бизнес-метрики** |
-| 🧪 | Формулирую и тестирую **гипотезы** |
-| 📈 | Анализирую результаты **A/B-тестирования** и даю рекомендации бизнесу |
-| 🔄 | Оцифровываю процессы селлера: кабинет → API → хранилище → отчёт |
-| ⚙️ | Пишу **Google Apps Script** под WB, Ozon, Яндекс Маркет, МойСклад или запрос клиента |
+**Данные**  
+SQL-запросы, витрины в PostgreSQL и ClickHouse, предобработка в Python / Pandas
+
+</td>
+<td width="33%" valign="top">
+
+**Выводы для бизнеса**  
+Метрики, дерево метрик, юнит-экономика, гипотезы, A/B-тесты и рекомендации
+
+</td>
+<td width="33%" valign="top">
+
+**Отчёт и процесс**  
+Дашборды в DataLens, выгрузки через API и Google Apps Script, контур кабинет → хранилище → отчёт
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Проекты Яндекс Практикума
-
-Портфолио расширенного тарифа. Два дашборда уже на GitHub, остальные — из программы курса.
+## Проекты
 
 <table>
 <tr>
@@ -104,7 +112,7 @@ DAU и активность в SQL, проверка гипотез и разб�
 <img src="https://img.shields.io/badge/Маркет-FF3333?logo=yandex&logoColor=white" alt="Маркет" />
 <img src="https://img.shields.io/badge/МойСклад-00A046" alt="МойСклад" />
 
-Собственная практика: API → PostgreSQL → DataLens / Google Таблица.
+API → PostgreSQL → DataLens / Google Таблица. Скрипты выгрузки под запрос клиента.
 
 </td>
 </tr>
@@ -114,55 +122,18 @@ DAU и активность в SQL, проверка гипотез и разб�
 
 ## Инструменты
 
-<div align="center">
+| Данные | BI и визуализация | Статистика и продукт | Автоматизация |
+|:---|:---|:---|:---|
+| SQL | Yandex DataLens | A/B-тесты | Google Apps Script |
+| PostgreSQL | Google Таблицы | T-тест · Z-тест | Airflow |
+| ClickHouse | Python · Pandas | Манн — Уитни | API WB / Ozon / Маркет |
+| PySpark | Matplotlib | k-means · модель оттока | МойСклад |
 
-<img src="https://skillicons.dev/icons?i=python,postgres,git,google,js,vscode" alt="Python PostgreSQL Git Google JavaScript" />
-
-</div>
-
-<br/>
-
-**Данные и хранилища**
-
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/ClickHouse-FFCC00?style=for-the-badge&logo=clickhouse&logoColor=black" alt="ClickHouse" />
-<img src="https://img.shields.io/badge/Google%20Таблицы-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Таблицы" />
-
-**BI и визуализация**
-
-<img src="https://img.shields.io/badge/Yandex%20DataLens-FFCC00?style=for-the-badge&logo=yandexcloud&logoColor=black" alt="DataLens" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-
-**Пайплайны и большие данные**
-
-<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow" />
-<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
-<img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Apps Script" />
-
-**Статистика и продукт**
-
-<img src="https://img.shields.io/badge/A%2FB%20тесты-FC3F1D?style=for-the-badge" alt="A/B-тесты" />
-<img src="https://img.shields.io/badge/T--тест-2F80ED?style=for-the-badge" alt="T-тест" />
-<img src="https://img.shields.io/badge/Z--тест-2F80ED?style=for-the-badge" alt="Z-тест" />
-<img src="https://img.shields.io/badge/Манн%20—%20Уитни-2F80ED?style=for-the-badge" alt="Тест Манна — Уитни" />
-<img src="https://img.shields.io/badge/k--means-00A046?style=for-the-badge" alt="k-means" />
-<img src="https://img.shields.io/badge/Модель%20оттока-00A046?style=for-the-badge" alt="Модель оттока" />
-<img src="https://img.shields.io/badge/Юнит--экономика-CB11AB?style=for-the-badge" alt="Юнит-экономика" />
-<img src="https://img.shields.io/badge/Дерево%20метрик-CB11AB?style=for-the-badge" alt="Дерево метрик" />
-
-**Маркетплейсы и учёт**
-
-<img src="https://img.shields.io/badge/Wildberries-CB11AB?style=for-the-badge" alt="Wildberries" />
-<img src="https://img.shields.io/badge/Ozon-005BFF?style=for-the-badge" alt="Ozon" />
-<img src="https://img.shields.io/badge/Яндекс%20Маркет-FF3333?style=for-the-badge&logo=yandex&logoColor=white" alt="Яндекс Маркет" />
-<img src="https://img.shields.io/badge/МойСклад-00A046?style=for-the-badge" alt="МойСклад" />
+Юнит-экономика · дерево метрик
 
 ---
 
-## Практика: оцифровка маркетплейсов
+## Как собираю контур данных
 
 ```mermaid
 flowchart LR
@@ -173,8 +144,6 @@ flowchart LR
     D --> F[Решение бизнеса]
     E --> F
 ```
-
-Снимаю процесс AS-IS, забираю данные из кабинета или учёта, собираю витрину и отдаю дашборд или таблицу, которой пользуются.
 
 ---
 
@@ -203,7 +172,6 @@ flowchart LR
 
 <a href="https://t.me/shcherbakc"><img src="https://img.shields.io/badge/Написать%20в%20Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 <a href="https://github.com/shcherbakc"><img src="https://img.shields.io/badge/GitHub-shcherbakc-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://practicum.yandex.ru/data-analyst/"><img src="https://img.shields.io/badge/Курс-Яндекс%20Практикум-FC3F1D?style=for-the-badge&logo=yandex&logoColor=white" alt="Практикум" /></a>
 
 Открыт к ролям **аналитика данных**, **BI-аналитика** и задачам по **оцифровке бизнес-процессов**.
 
