@@ -16,7 +16,6 @@ WB · Ozon · Яндекс Маркет · МойСклад · Google Apps Scrip
 
 <br/>
 
-<img src="./assets/brands.svg" alt="DataLens, Google, Wildberries, Ozon, Яндекс Маркет, МойСклад, PostgreSQL, Python" width="920" />
 
 </div>
 
