@@ -1,44 +1,51 @@
 # Владимир Щербаков
 
-Data Analyst · BI · оцифровка процессов на маркетплейсах
+**Data Analyst · BI · оцифровка процессов на маркетплейсах**
 
 Собираю данные из кабинетов, считаю метрики и отдаю дашборд или таблицу, которой реально пользуются.
 
 Курс: аналитик данных, [Яндекс Практикум](https://practicum.yandex.ru/data-analyst/)
 
----
+<br/>
 
-## Чем занимаюсь
+<img src="./assets/brands.svg" alt="DataLens · Google · WB · Ozon · Маркет · МойСклад · PostgreSQL · Python" width="880" />
 
-- SQL и витрины в PostgreSQL / ClickHouse
-- Анализ в Python (Pandas, Matplotlib)
-- Дашборды в Yandex DataLens
-- Бизнес-метрики, юнит-экономика, A/B-тесты
-- Выгрузки через API и Google Apps Script  
-  (Wildberries, Ozon, Яндекс Маркет, МойСклад)
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,postgres,js,google,git,vscode&theme=dark" alt="Python PostgreSQL JavaScript Google Git VS Code" />
 
 ---
 
-## Проекты
+### Чем занимаюсь
 
-**[TED-конференции](https://github.com/shcherbakc/TED_conferences)** — темы, хронометраж, реакция зала · [DataLens](https://datalens.yandex/620d9ckzdnpwq)
-
-**[Рынок недвижимости СПб и ЛО](https://github.com/shcherbakc/project_real_estate_dashboard)** — цены, экспозиция, сезонность · [DataLens](https://datalens.yandex/b7qf4vbd6f22v)
-
-**[Пайплайн маркетплейса](https://github.com/shcherbakc/marketplace-data-pipeline)** — API → PostgreSQL → DataLens / Google Таблица
-
-Также: предобработка данных онлайн-игры, активность пользователей Яндекс Книг, дашборд Яндекс Афиши.
+| | |
+|:---|:---|
+| **Данные** | SQL, витрины в PostgreSQL / ClickHouse, Python · Pandas |
+| **BI** | дашборды в Yandex DataLens, Google Таблицы |
+| **Бизнес** | метрики, юнит-экономика, гипотезы, A/B-тесты |
+| **Автоматизация** | Google Apps Script, API WB / Ozon / Маркет / МойСклад |
 
 ---
 
-## Стек
+### Проекты
 
-`SQL` `PostgreSQL` `ClickHouse` `Python` `Pandas` `DataLens` `Google Apps Script` `Airflow` `PySpark`
+| Проект | Стек | Ссылка |
+|:---|:---|:---|
+| [TED-конференции](https://github.com/shcherbakc/TED_conferences) | SQL · DataLens | [дашборд](https://datalens.yandex/620d9ckzdnpwq) |
+| [Рынок недвижимости СПб и ЛО](https://github.com/shcherbakc/project_real_estate_dashboard) | SQL · DataLens | [дашборд](https://datalens.yandex/b7qf4vbd6f22v) |
+| [Пайплайн маркетплейса](https://github.com/shcherbakc/marketplace-data-pipeline) | Apps Script · PostgreSQL · DataLens | API → отчёт |
+| Яндекс Книги · Афиша · онлайн-игра | SQL · Python · A/B | учебные кейсы |
+
+---
+
+### Стек
+
+`SQL` `PostgreSQL` `ClickHouse` `Python` `Pandas` `DataLens` `Apps Script` `Airflow` `PySpark`
 
 A/B-тесты · T / Z / Манн—Уитни · k-means · модель оттока · юнит-экономика
 
 ---
 
-## Контакты
+### Контакты
 
 [Telegram](https://t.me/shcherbakc) · [GitHub](https://github.com/shcherbakc)

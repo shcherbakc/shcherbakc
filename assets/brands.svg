@@ -1,48 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="920" height="72" viewBox="0 0 920 72" role="img" aria-label="Стек: DataLens, Google, Wildberries, Ozon, Маркет, МойСклад, PostgreSQL, Python">
-  <defs>
-    <filter id="s" x="-10%" y="-20%" width="120%" height="160%">
-      <feDropShadow dx="0" dy="1" stdDeviation="1.2" flood-color="#000" flood-opacity="0.28"/>
-    </filter>
-  </defs>
-  <rect width="920" height="72" rx="16" fill="#0D1117"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="56" viewBox="0 0 880 56" role="img" aria-label="DataLens, Google, Wildberries, Ozon, Яндекс Маркет, МойСклад, PostgreSQL, Python">
+  <rect width="880" height="56" rx="0" fill="transparent"/>
 
-  <g filter="url(#s)">
-    <rect x="16" y="16" width="122" height="40" rx="10" fill="#FFCC00"/>
-    <text x="77" y="42" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#111">DataLens</text>
-  </g>
+  <!-- DataLens -->
+  <a href="https://datalens.yandex" target="_blank">
+    <rect x="0" y="8" width="118" height="40" rx="10" fill="#FFCC00"/>
+    <text x="59" y="34" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#111">DataLens</text>
+  </a>
 
-  <g filter="url(#s)">
-    <rect x="146" y="16" width="88" height="40" rx="10" fill="#4285F4"/>
-    <text x="190" y="42" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#fff">Google</text>
-  </g>
+  <!-- Google -->
+  <a href="https://developers.google.com/apps-script" target="_blank">
+    <rect x="126" y="8" width="92" height="40" rx="10" fill="#4285F4"/>
+    <text x="172" y="34" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#fff">Google</text>
+  </a>
 
-  <g filter="url(#s)">
-    <rect x="242" y="16" width="54" height="40" rx="10" fill="#CB11AB"/>
-    <text x="269" y="42" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="800" fill="#fff">WB</text>
-  </g>
+  <!-- Wildberries -->
+  <rect x="226" y="8" width="52" height="40" rx="10" fill="#CB11AB"/>
+  <text x="252" y="34" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="800" fill="#fff">WB</text>
 
-  <g filter="url(#s)">
-    <rect x="304" y="16" width="78" height="40" rx="10" fill="#005BFF"/>
-    <text x="343" y="42" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="800" fill="#fff">Ozon</text>
-  </g>
+  <!-- Ozon -->
+  <rect x="286" y="8" width="72" height="40" rx="10" fill="#005BFF"/>
+  <text x="322" y="34" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="800" fill="#fff">Ozon</text>
 
-  <g filter="url(#s)">
-    <rect x="390" y="16" width="118" height="40" rx="10" fill="#FF3333"/>
-    <text x="449" y="42" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#fff">Маркет</text>
-  </g>
+  <!-- Яндекс Маркет -->
+  <rect x="366" y="8" width="108" height="40" rx="10" fill="#FF3333"/>
+  <text x="420" y="34" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#fff">Маркет</text>
 
-  <g filter="url(#s)">
-    <rect x="516" y="16" width="112" height="40" rx="10" fill="#00A046"/>
-    <text x="572" y="42" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#fff">МойСклад</text>
-  </g>
+  <!-- МойСклад -->
+  <rect x="482" y="8" width="108" height="40" rx="10" fill="#00A046"/>
+  <text x="536" y="34" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#fff">МойСклад</text>
 
-  <g filter="url(#s)">
-    <rect x="636" y="16" width="128" height="40" rx="10" fill="#4169E1"/>
-    <text x="700" y="42" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#fff">PostgreSQL</text>
-  </g>
+  <!-- PostgreSQL -->
+  <rect x="598" y="8" width="118" height="40" rx="10" fill="#4169E1"/>
+  <text x="657" y="34" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#fff">PostgreSQL</text>
 
-  <g filter="url(#s)">
-    <rect x="772" y="16" width="132" height="40" rx="10" fill="#3776AB"/>
-    <text x="838" y="42" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#fff">Python</text>
-  </g>
+  <!-- Python -->
+  <rect x="724" y="8" width="92" height="40" rx="10" fill="#3776AB"/>
+  <text x="770" y="34" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#fff">Python</text>
 </svg>
